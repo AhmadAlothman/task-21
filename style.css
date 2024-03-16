@@ -1,0 +1,22 @@
+
+table{
+    width: 70%;
+    margin: 20px auto;
+}
+
+
+th,td{
+ border: 1px solid #000;
+    text-align: center;
+}
+
+.even{
+
+    background-color: #8d8989;
+}
+
+.odd{
+
+    background-color: 'white';
+}
+
